@@ -49,6 +49,7 @@
                         <li><a href="">Mentions légales</a></li>
                         <li><a href="contact.html">Contact</a></li>
                         <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.html">test</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-6 col-md-6">
